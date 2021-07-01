@@ -195,10 +195,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/standalone@^7.13.12":
-  version "7.13.17"
-  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.13.17.tgz#921b82a11a80ce824589516736d629efc53297aa"
-  integrity sha512-Y9P198T45MIIu+AvGOCcjsdKl79+BCL2nA+6ODA5p/DhGzymvzaTgtzvNcjZDcJmbPszcmohjLLgvma3tmvVtg==
+"@babel/standalone@^7.14.7":
+  version "7.14.7"
+  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.14.7.tgz#68635da005d6a34a0259599e0720d2e73133ecc3"
+  integrity sha512-7RlfMPR4604SbYpj5zvs2ZK587hVhixgU9Pd9Vs8lB8KYtT3U0apXSf0vZXhy8XRh549eUmJOHXhWKTO3ObzOQ==
 
 "@babel/template@^7.12.13":
   version "7.12.13"
@@ -649,16 +649,16 @@
   dependencies:
     csstype "^3.0.2"
 
-"@vitejs/plugin-legacy@^1.3.4":
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-legacy/-/plugin-legacy-1.3.4.tgz#0618bc2e92af97deb07dfb2d32b7aa2528123d66"
-  integrity sha512-T6+eo9Je05i45atk/e2ONiaULf5IFYgQ7UOQN9mu9lITVk9Oxe7v5h56vN8ZsN1g52/UBXRlG99nQw4CgKJFDQ==
+"@vitejs/plugin-legacy@^1.4.3":
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-legacy/-/plugin-legacy-1.4.3.tgz#d022275d08e6f1f777891fb405816a9dd41a9f1f"
+  integrity sha512-lxZUJaMWYMQuqvZM1wPzDP6KABQgA/drVL5fnaygEPcz9adc2OHhfFNN/SvvHQ1V0rP8gybIc7uA+iI1gAdkVQ==
   dependencies:
-    "@babel/standalone" "^7.13.12"
-    core-js "^3.8.2"
+    "@babel/standalone" "^7.14.7"
+    core-js "^3.15.1"
     magic-string "^0.25.7"
     regenerator-runtime "^0.13.7"
-    systemjs "^6.8.3"
+    systemjs "^6.10.1"
 
 "@vitejs/plugin-react-refresh@^1.3.3":
   version "1.3.3"
@@ -907,10 +907,10 @@ convert-source-map@^1.5.0, convert-source-map@^1.7.0:
   dependencies:
     safe-buffer "~5.1.1"
 
-core-js@^3.8.2:
-  version "3.10.2"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.10.2.tgz#17cb038ce084522a717d873b63f2b3ee532e2cd5"
-  integrity sha512-W+2oVYeNghuBr3yTzZFQ5rfmjZtYB/Ubg87R5YOmlGrIb+Uw9f7qjUbhsj+/EkXhcV7eOD3jiM4+sgraX3FZUw==
+core-js@^3.15.1:
+  version "3.15.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.15.2.tgz#740660d2ff55ef34ce664d7e2455119c5bdd3d61"
+  integrity sha512-tKs41J7NJVuaya8DxIOCnl8QuPHx5/ZVbFo1oKgVl1qHFBBrDctzQGtuLjPpRdNTWmKPH6oEvgN/MUID+l485Q==
 
 core-util-is@~1.0.0:
   version "1.0.2"
@@ -1907,10 +1907,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-systemjs@^6.8.3:
-  version "6.8.3"
-  resolved "https://registry.yarnpkg.com/systemjs/-/systemjs-6.8.3.tgz#67e27f49242e9d81c2b652b204ae54e8bfcc75a3"
-  integrity sha512-UcTY+FEA1B7e+bpJk1TI+a9Na6LG7wFEqW7ED16cLqLuQfI/9Ri0rsXm3tKlIgNoHyLHZycjdAOijzNbzelgwA==
+systemjs@^6.10.1:
+  version "6.10.1"
+  resolved "https://registry.yarnpkg.com/systemjs/-/systemjs-6.10.1.tgz#4a42a9f4ee8dc740c29dc9af631da819ae736c69"
+  integrity sha512-i2HiBOTIsm4GpjpiDHqTscZ/78htyTtdhpcbY2XPbIpsaNDIBA9vtxwIl8kSSnIRO0Zn7SHqvvILu3cMoXQuYw==
 
 table-layout@^1.0.1:
   version "1.0.2"
