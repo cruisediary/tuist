@@ -989,10 +989,10 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
-  version "7.13.17"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.13.17.tgz#8966d1fc9593bf848602f0662d6b4d0069e3a7ec"
-  integrity sha512-NCdgJEelPTSh+FEFylhnP1ylq848l1z9t9N0j1Lfbcw0+KXGjsTvUmkxy+voLLXB5SOKMbLLx4jxYliGrYQseA==
+"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.14.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
+  version "7.14.6"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.14.6.tgz#535203bc0892efc7dec60bdc27b2ecf6e409062d"
+  integrity sha512-/PCB2uJ7oM44tz8YhC4Z/6PeOKXp4K588f+5M3clr1M4zbqztlo0XEfJ2LEzj/FgwfgGcIdl8n7YYjTCI0BYwg==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -7391,7 +7391,7 @@ gatsby-core-utils@^1.10.1:
     tmp "^0.2.1"
     xdg-basedir "^4.0.0"
 
-gatsby-core-utils@^2.4.0, gatsby-core-utils@^2.5.0:
+gatsby-core-utils@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-2.5.0.tgz#70b3aabf184a39c790e12af8001be4164fd8afa6"
   integrity sha512-YbKv7FLpeTCts28bv0H2lSuHrKgUxnsC1ZG1PPydOheQgPW9G8pdNlYvwZzGJmmS7rBcC/w859ss90wlvF6GEw==
@@ -7412,12 +7412,12 @@ gatsby-graphiql-explorer@^0.11.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-image@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.5.0.tgz#fe76d1d5638bdbe1255c2226a1b00539887af798"
-  integrity sha512-pr3P8+UiyL3nThVlqjlGbrDzaLx/aERjHoD4iVxrEsdoMmmb8fh+MT8/OkYe48NVJUiifNY1EmVUHP9RRCB6nw==
+gatsby-image@^3.8.0:
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.8.0.tgz#09b5ddb50b327a33309ebcce7f072e8c518e9163"
+  integrity sha512-/3baJbPMjOpqCPziyzs9ZI6iW0w01MXWs6mp5mAUk1um2nsSbqO+8U+6eKkPKUJbV/4k5SIOare9GlVRcGgjzA==
   dependencies:
-    "@babel/runtime" "^7.12.5"
+    "@babel/runtime" "^7.14.0"
     object-fit-images "^3.2.4"
     prop-types "^15.7.2"
 
