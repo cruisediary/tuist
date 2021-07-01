@@ -2493,6 +2493,14 @@
     "@theme-ui/parse-props" "0.8.4"
     deepmerge "^4.2.2"
 
+"@theme-ui/css@0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.10.0.tgz#871f63334fb138491406c32f8347d53b19846a9b"
+  integrity sha512-Up3HqXoy2ERn/9gVxApCSl2n9vwtHBwPrYlMyEjX0YPs/rxmo+Aqe3kAxO+SG9idMw08mtdaDfMIFaPsBE5ovA==
+  dependencies:
+    "@emotion/react" "^11.1.1"
+    csstype "^3.0.5"
+
 "@theme-ui/css@0.8.4":
   version "0.8.4"
   resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.8.4.tgz#2539c8ccb52054d54593786e5f1e89f118e908c0"
@@ -2656,12 +2664,12 @@
     "@theme-ui/css" "0.8.4"
     "@theme-ui/mdx" "0.8.4"
 
-"@theme-ui/typography@^0.8.4":
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/@theme-ui/typography/-/typography-0.8.4.tgz#5446b92cca85f650d93e1e616f9a36ae3745138e"
-  integrity sha512-aA694PWKUxTAbES0W7rNIQ9HaMUJa1id42/VsdO5DTDlYKJdQbFxjJa+IzyFcW/sHQEtUzyjZUpN7DE7k1v7zA==
+"@theme-ui/typography@^0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/typography/-/typography-0.10.0.tgz#1a143ca980ca5619ef5b2823f7ae96cd200f5976"
+  integrity sha512-OISI85zfYTzXMQAKHIoEnAMzZffQPh+kBvhuKlSBGcZ32ohbXDuhZxtHcSMuIdO2GNTIqayWxKX0u0zzO+VsdA==
   dependencies:
-    "@theme-ui/css" "0.8.4"
+    "@theme-ui/css" "0.10.0"
     "@types/compass-vertical-rhythm" "^1.4.1"
     "@types/modularscale" "^2.0.0"
     "@types/typography" "^0.16.3"
